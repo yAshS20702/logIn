@@ -1,0 +1,150 @@
+
+/* Class = "UITextField"; placeholder = " Enter Your Student ID..."; ObjectID = "1ET-Y9-XFI"; */
+"1ET-Y9-XFI.placeholder" = " Enter Your Student ID...";
+
+/* Class = "UILabel"; text = "Student Details"; ObjectID = "2hv-vp-0Pw"; */
+"2hv-vp-0Pw.text" = "Student Details";
+
+/* Class = "UIButton"; normalTitle = "Submitted"; ObjectID = "3gA-YL-Ltv"; */
+"3gA-YL-Ltv.normalTitle" = "Submitted";
+
+/* Class = "UIButton"; normalTitle = "Create Account"; ObjectID = "4nJ-TS-ifl"; */
+"4nJ-TS-ifl.normalTitle" = "Create Account";
+
+/* Class = "UITextField"; placeholder = "Blood Group.."; ObjectID = "6zh-iB-A8p"; */
+"6zh-iB-A8p.placeholder" = "Blood Group..";
+
+/* Class = "UITextField"; placeholder = "Enter Your Date of Birth.."; ObjectID = "7Mt-wa-e9Z"; */
+"7Mt-wa-e9Z.placeholder" = "Enter Your Date of Birth..";
+
+/* Class = "UITextField"; placeholder = "Enter Your Department.."; ObjectID = "7tn-tn-zrY"; */
+"7tn-tn-zrY.placeholder" = "Enter Your Department..";
+
+/* Class = "UIButton"; configuration.title = "LogIn"; ObjectID = "BRO-pN-UGo"; */
+"BRO-pN-UGo.configuration.title" = "LogIn";
+
+/* Class = "UIButton"; normalTitle = "LogIn"; ObjectID = "BRO-pN-UGo"; */
+"BRO-pN-UGo.normalTitle" = "LogIn";
+
+/* Class = "UITextField"; placeholder = "Enter Password Again.."; ObjectID = "CbJ-k0-9v9"; */
+"CbJ-k0-9v9.placeholder" = "Enter Password Again..";
+
+/* Class = "UILabel"; text = "Mobile No :"; ObjectID = "Dl5-hs-Dz2"; */
+"Dl5-hs-Dz2.text" = "Mobile No :";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "Ei3-1a-kQA"; */
+"Ei3-1a-kQA.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Semester"; ObjectID = "Fkv-LM-5cB"; */
+"Fkv-LM-5cB.text" = "Semester";
+
+/* Class = "UILabel"; text = "Semester :"; ObjectID = "IWU-sE-8MK"; */
+"IWU-sE-8MK.text" = "Semester :";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email Address..."; ObjectID = "JMr-aj-7Lq"; */
+"JMr-aj-7Lq.placeholder" = "Enter Your Email Address...";
+
+/* Class = "UILabel"; text = "First Name :"; ObjectID = "Jc2-Jz-iNQ"; */
+"Jc2-Jz-iNQ.text" = "First Name :";
+
+/* Class = "UILabel"; text = "Department : "; ObjectID = "Kc1-M5-mnW"; */
+"Kc1-M5-mnW.text" = "Department : ";
+
+/* Class = "UILabel"; text = "User Details"; ObjectID = "NLx-kQ-Kpd"; */
+"NLx-kQ-Kpd.text" = "User Details";
+
+/* Class = "UIButton"; configuration.title = "signUp"; ObjectID = "NMt-oM-ulf"; */
+"NMt-oM-ulf.configuration.title" = "signUp";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NMt-oM-ulf"; */
+"NMt-oM-ulf.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Forget Password ?"; ObjectID = "NVz-aq-mTR"; */
+"NVz-aq-mTR.text" = "Forget Password ?";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "QVZ-2q-RBO"; */
+"QVZ-2q-RBO.text" = "Name";
+
+/* Class = "UITextField"; placeholder = "Enter Your Email Address.."; ObjectID = "Qxh-bT-VWK"; */
+"Qxh-bT-VWK.placeholder" = "Enter Your Email Address..";
+
+/* Class = "UILabel"; text = "Semester : "; ObjectID = "RFl-zO-VV6"; */
+"RFl-zO-VV6.text" = "Semester : ";
+
+/* Class = "UITabBarItem"; title = "notification"; ObjectID = "Swx-Cf-K20"; */
+"Swx-Cf-K20.title" = "notification";
+
+/* Class = "UILabel"; text = "Personal "; ObjectID = "VTb-j5-vvA"; */
+"VTb-j5-vvA.text" = "Personal ";
+
+/* Class = "UIButton"; configuration.title = "Forget Password ?"; ObjectID = "WJg-uN-nlW"; */
+"WJg-uN-nlW.configuration.title" = "Forget Password ?";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "WJg-uN-nlW"; */
+"WJg-uN-nlW.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter Your Last Name.."; ObjectID = "Yom-Qe-ROc"; */
+"Yom-Qe-ROc.placeholder" = "Enter Your Last Name..";
+
+/* Class = "UITextField"; placeholder = "Set a Password.."; ObjectID = "bIu-nt-R5r"; */
+"bIu-nt-R5r.placeholder" = "Set a Password..";
+
+/* Class = "UILabel"; text = "Don't Have an Account ? "; ObjectID = "bZM-T1-4aX"; */
+"bZM-T1-4aX.text" = "Don't Have an Account ? ";
+
+/* Class = "UILabel"; text = "Last Name :"; ObjectID = "cia-fM-abU"; */
+"cia-fM-abU.text" = "Last Name :";
+
+/* Class = "UILabel"; text = "Department"; ObjectID = "dRL-2u-xP1"; */
+"dRL-2u-xP1.text" = "Department";
+
+/* Class = "UITextField"; placeholder = "Enter Your Mobile Number.."; ObjectID = "f4b-3h-q4h"; */
+"f4b-3h-q4h.placeholder" = "Enter Your Mobile Number..";
+
+/* Class = "UILabel"; text = "Date Of Birth :"; ObjectID = "gLS-9X-3r1"; */
+"gLS-9X-3r1.text" = "Date Of Birth :";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "iFC-sn-72P"; */
+"iFC-sn-72P.text" = "Email";
+
+/* Class = "UILabel"; text = "Email Address :"; ObjectID = "int-N5-q7k"; */
+"int-N5-q7k.text" = "Email Address :";
+
+/* Class = "UILabel"; text = "Blood Group :"; ObjectID = "jqW-2c-rVw"; */
+"jqW-2c-rVw.text" = "Blood Group :";
+
+/* Class = "UITextField"; placeholder = "Enter Your Password..."; ObjectID = "lRC-bB-YTR"; */
+"lRC-bB-YTR.placeholder" = "Enter Your Password...";
+
+/* Class = "UITabBarItem"; title = "User"; ObjectID = "mZS-qJ-fhH"; */
+"mZS-qJ-fhH.title" = "User";
+
+/* Class = "UITextField"; placeholder = "Semester.."; ObjectID = "nSK-ng-Kli"; */
+"nSK-ng-Kli.placeholder" = "Semester..";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "s8c-lH-8V0"; */
+"s8c-lH-8V0.title" = "Home";
+
+/* Class = "UISegmentedControl"; sjK-F4-ZLt.segmentTitles[0] = "Sem 1"; ObjectID = "sjK-F4-ZLt"; */
+"sjK-F4-ZLt.segmentTitles[0]" = "Sem 1";
+
+/* Class = "UISegmentedControl"; sjK-F4-ZLt.segmentTitles[1] = "Sem 2"; ObjectID = "sjK-F4-ZLt"; */
+"sjK-F4-ZLt.segmentTitles[1]" = "Sem 2";
+
+/* Class = "UISegmentedControl"; sjK-F4-ZLt.segmentTitles[2] = "Sem 3"; ObjectID = "sjK-F4-ZLt"; */
+"sjK-F4-ZLt.segmentTitles[2]" = "Sem 3";
+
+/* Class = "UISegmentedControl"; sjK-F4-ZLt.segmentTitles[3] = "Sem 4"; ObjectID = "sjK-F4-ZLt"; */
+"sjK-F4-ZLt.segmentTitles[3]" = "Sem 4";
+
+/* Class = "UITextField"; placeholder = "Enter Your Student ID.."; ObjectID = "vIS-tG-9qj"; */
+"vIS-tG-9qj.placeholder" = "Enter Your Student ID..";
+
+/* Class = "UITextField"; placeholder = "Enter Your First Name.."; ObjectID = "wYD-rS-hjQ"; */
+"wYD-rS-hjQ.placeholder" = "Enter Your First Name..";
+
+/* Class = "UILabel"; text = "University"; ObjectID = "ylx-sw-4ke"; */
+"ylx-sw-4ke.text" = "University";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ytM-ef-KUh"; */
+"ytM-ef-KUh.normalTitle" = "Button";
