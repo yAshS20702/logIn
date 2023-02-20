@@ -26,7 +26,6 @@ class ViewController: UIViewController , UITextFieldDelegate {
         self.setupUI()
         txtEmail.delegate = self
         txtPassword.delegate = self
-        
         self.hideKeyboardTappedAround()
     }
     
@@ -88,6 +87,8 @@ class ViewController: UIViewController , UITextFieldDelegate {
     @IBAction func btnLoginTapped(_ sender: Any){
         
         if self.txtEmail.text == "yash" && self.txtPassword.text == "1234"{
+            
+
             let vc = storyboard?.instantiateViewController(withIdentifier: "newHomeController") as? newHomeController
             self.navigationController?.pushViewController(vc!, animated: true)
         }
@@ -96,6 +97,7 @@ class ViewController: UIViewController , UITextFieldDelegate {
             self.setAlertMessage(titleMSG: "ERROR", message: "Please Enter right ID or Password")
         }
         dataChange()
+
     }
     
     @IBAction func btnAdminTapped(_ sender: Any) {
@@ -120,6 +122,7 @@ class ViewController: UIViewController , UITextFieldDelegate {
     
 }
 extension UITextField {
+    
     func setLeftPaddingPoints(_ amount:CGFloat){
         let paddingView = UIView(frame: CGRect(x: 0, y: 0, width: amount, height: self.frame.size.height))
         self.leftView = paddingView

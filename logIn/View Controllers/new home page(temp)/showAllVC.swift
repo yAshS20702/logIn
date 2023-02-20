@@ -78,6 +78,19 @@ extension showAllVC : UITableViewDelegate , UITableViewDataSource
     func tableView(_ tableView: UITableView, heightForRowAt indexPath: IndexPath) -> CGFloat {
         return 100
     }
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+       if let vc = storyboard?.instantiateViewController(withIdentifier: "notificationDetailsVC") as? notificationDetailsVC
+        
+        {
+            if  let sheet = vc.sheetPresentationController{
+                
+                sheet.detents = [.medium(), .large()  ]
+            }
+            
+            
+            self.present(vc, animated: true ,completion: nil)
+        }
+    }
     
     func tableView(_ tableView: UITableView, editingStyleForRowAt indexPath: IndexPath) -> UITableViewCell.EditingStyle {
         return .delete

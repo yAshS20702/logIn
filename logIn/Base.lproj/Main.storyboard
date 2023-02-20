@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="VEE-bb-Qbk">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="vZW-63-wD9">
     <device id="retina6_12" orientation="portrait" appearance="light"/>
     <accessibilityOverrides/>
     <dependencies>
@@ -172,7 +172,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-327.48091603053433" y="-28.169014084507044"/>
+            <point key="canvasLocation" x="-3079" y="-4063"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="S8l-ux-SgT">
@@ -190,7 +190,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="b1V-QZ-afF" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1271" y="-28"/>
+            <point key="canvasLocation" x="-4095" y="-4063"/>
         </scene>
         <!--Sign UpVC-->
         <scene sceneID="Rdh-fC-xyV">
@@ -460,7 +460,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6zY-Cp-UPf" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="524" y="-88"/>
+            <point key="canvasLocation" x="-2221" y="-4505"/>
         </scene>
         <!--Home-->
         <scene sceneID="m2p-Bb-pqd">
@@ -515,7 +515,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ndc-0a-49E" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1273" y="1462"/>
+            <point key="canvasLocation" x="-7193" y="900"/>
         </scene>
         <!--Events-->
         <scene sceneID="cPP-dw-3Qm">
@@ -533,7 +533,7 @@
                                 <color key="shadowColor" name="color_black"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" horizontalCompressionResistancePriority="749" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iMv-Ar-pBF">
-                                <rect key="frame" x="327.33333333333331" y="79" width="45.666666666666686" height="34.666666666666657"/>
+                                <rect key="frame" x="327.33333333333331" y="79" width="45.666666666666686" height="40"/>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="plus" catalog="system">
                                     <color key="baseForegroundColor" name="color_black"/>
@@ -543,9 +543,10 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eqz-rs-Sty">
-                                <rect key="frame" x="10" y="79" width="45" height="34.333333333333343"/>
+                                <rect key="frame" x="10" y="79" width="45" height="40"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="45" id="MaG-fI-HRY"/>
+                                    <constraint firstAttribute="height" constant="40" id="igk-kz-MMB"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="chevron.backward" catalog="system">
@@ -599,7 +600,7 @@
                                 <color key="backgroundColor" name="Color_White"/>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="v40-yc-hLZ">
-                                <rect key="frame" x="331" y="143.66666666666666" width="47" height="30"/>
+                                <rect key="frame" x="331" y="149" width="47" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="47" id="7xI-uS-EnK"/>
                                     <constraint firstAttribute="height" constant="30" id="xmf-hg-6mq"/>
@@ -611,7 +612,7 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Past Events" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qcL-nA-KY9">
-                                <rect key="frame" x="15" y="153.33333333333334" width="91.666666666666671" height="21.666666666666657"/>
+                                <rect key="frame" x="15" y="159" width="91.666666666666671" height="21.666666666666657"/>
                                 <fontDescription key="fontDescription" type="system" weight="light" pointSize="18"/>
                                 <color key="textColor" name="Color_Grey"/>
                                 <nil key="highlightedColor"/>
@@ -670,7 +671,7 @@
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Loc-Sc-CYm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2077" y="760"/>
+            <point key="canvasLocation" x="-6231" y="163"/>
         </scene>
         <!--User-->
         <scene sceneID="Xro-nc-SBw">
@@ -900,7 +901,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="B5U-l0-B6i" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2702" y="1462"/>
+            <point key="canvasLocation" x="-6385" y="900"/>
         </scene>
         <!--FAQ-->
         <scene sceneID="SG9-tI-VNm">
@@ -1115,7 +1116,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Bac-Te-MfB" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="525" y="721"/>
+            <point key="canvasLocation" x="-1514" y="-4593"/>
         </scene>
         <!--Notification DetailsVC-->
         <scene sceneID="RCP-Ii-wOR">
@@ -1126,11 +1127,10 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="YNM-w4-5Ld">
-                                <rect key="frame" x="20" y="59" width="30" height="30"/>
+                                <rect key="frame" x="15" y="79" width="45" height="40"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="30" id="3pJ-RK-AKc"/>
-                                    <constraint firstAttribute="width" constant="30" id="7Lz-Hj-TuE"/>
-                                    <constraint firstAttribute="height" constant="30" id="NDK-B7-5fh"/>
+                                    <constraint firstAttribute="height" constant="40" id="Cze-Ac-NHw"/>
+                                    <constraint firstAttribute="width" constant="45" id="sOt-hG-dEb"/>
                                 </constraints>
                                 <state key="normal" title="Button"/>
                                 <buttonConfiguration key="configuration" style="plain" image="chevron.backward" catalog="system">
@@ -1141,8 +1141,8 @@
                                 </connections>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Notifications" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NXL-eW-vAp">
-                                <rect key="frame" x="58" y="59" width="277" height="30"/>
-                                <fontDescription key="fontDescription" type="boldSystem" pointSize="26"/>
+                                <rect key="frame" x="92" y="79" width="209" height="43"/>
+                                <fontDescription key="fontDescription" type="boldSystem" pointSize="35"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                                 <color key="shadowColor" systemColor="labelColor"/>
@@ -1151,18 +1151,16 @@
                         <viewLayoutGuide key="safeArea" id="uwL-Nm-jHl"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="YNM-w4-5Ld" firstAttribute="top" secondItem="uwL-Nm-jHl" secondAttribute="top" id="09y-bB-Me9"/>
-                            <constraint firstItem="NXL-eW-vAp" firstAttribute="centerX" secondItem="hzh-24-9yP" secondAttribute="centerX" id="4gD-JN-BKa"/>
-                            <constraint firstItem="NXL-eW-vAp" firstAttribute="centerY" secondItem="YNM-w4-5Ld" secondAttribute="centerY" id="99J-fo-QsE"/>
-                            <constraint firstItem="YNM-w4-5Ld" firstAttribute="leading" secondItem="uwL-Nm-jHl" secondAttribute="leading" constant="20" id="VI2-nY-qrw"/>
-                            <constraint firstItem="NXL-eW-vAp" firstAttribute="top" secondItem="YNM-w4-5Ld" secondAttribute="top" id="XFx-9V-Nzz"/>
-                            <constraint firstItem="NXL-eW-vAp" firstAttribute="leading" secondItem="YNM-w4-5Ld" secondAttribute="trailing" constant="8" symbolic="YES" id="rNT-Rl-4Ph"/>
+                            <constraint firstItem="YNM-w4-5Ld" firstAttribute="top" secondItem="uwL-Nm-jHl" secondAttribute="top" constant="20" id="Bq7-lK-5Gt"/>
+                            <constraint firstItem="YNM-w4-5Ld" firstAttribute="leading" secondItem="uwL-Nm-jHl" secondAttribute="leading" constant="15" id="F0l-eF-7w1"/>
+                            <constraint firstItem="NXL-eW-vAp" firstAttribute="centerY" secondItem="YNM-w4-5Ld" secondAttribute="centerY" constant="1.5" id="bmp-l5-tUG"/>
+                            <constraint firstItem="NXL-eW-vAp" firstAttribute="centerX" secondItem="hzh-24-9yP" secondAttribute="centerX" id="sjX-FP-2qB"/>
                         </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="r7D-5H-hk6" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-1071" y="2308"/>
+            <point key="canvasLocation" x="-3967" y="-1549"/>
         </scene>
         <!--Student DetailsVC-->
         <scene sceneID="NV7-gp-hEr">
@@ -1721,7 +1719,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="UWv-Zv-cao" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1714" y="-58"/>
+            <point key="canvasLocation" x="2321" y="-58"/>
         </scene>
         <!--Assignment UploadVC-->
         <scene sceneID="uVK-wY-6Ow">
